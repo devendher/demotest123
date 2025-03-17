@@ -12,7 +12,7 @@
         <script><![CDATA[var testChanges = Class.create();
 testChanges.prototype = {
     initialize: function() {
-		var k = 1;
+		var k = 2;
     },
 
     type: 'testChanges'
